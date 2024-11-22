@@ -21,7 +21,8 @@ Developed by: mirushika . t
 RegisterNumber: 24901203 
 */
 ```
-```import pandas as pd
+```
+import pandas as pd
 data=pd.read_csv("C:\\Users\\mirus\\OneDrive\\Documents\\Placement_Data.csv")
 data.head()
 data1=data.copy()
